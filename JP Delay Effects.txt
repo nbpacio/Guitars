@@ -1,0 +1,4 @@
+JP Delay Effects
+
+
+Petrucci makes extensive use of delay and modulation effects.  He tends to favor TC Electronics rackmount units in his amps' effects loops -- originally the 2290 delay, then later the 1210 chorus/flanger and M3000 delay/reverb.  On clean and rhythm sounds, he tends to use a subtle stereo delay/chorus effect of ~20-25m panned hard left/right with no regeneration (i.e. 1 repeat only).  On leads, he tends to use a stereo delay with ~460ms on one side and ~600ms on the other, with three repeats each.  Recently, Petrucci has started using a Fractal Audio AxeFX II rack unit as well as stompbox modulation effects, specifically the MXR EVH Flanger and EVH Phaser.
