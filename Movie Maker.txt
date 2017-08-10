@@ -1,3 +1,8 @@
 http://web.archive.org/web/20170112124505/http:/wl.dlservice.microsoft.com/download/C/1/B/C1BA42D6-6A50-4A4A-90E5-FA9347E9360C/en/wlsetup-all.exe
 
 http://www.rehanfx.org/split_video.htm
+
+
+Run the downloaded exe file and extract the xml file inside it. It should ask you to specify the AddOnTFX folder with a default value of "C:\Program Files\Movie Maker\Shared\AddOnTFX"
+
+Restart Movie Maker.
